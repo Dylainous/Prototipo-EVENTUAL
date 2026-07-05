@@ -1,0 +1,36 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.g.dart
+*.freezed.dart
+
+# Seguridad y Entorno
+.env
+.env.*
+android/key.properties
+*.jks
+*.keystore
+
+# Android / iOS locales
+android/local.properties
+ios/.generated/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+
+# Editores y Sistema Operativo
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+Thumbs.db
